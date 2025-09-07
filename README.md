@@ -11,7 +11,7 @@ The dataset is **synthetic**, generated to mirror real-world booking behavior fo
 ## 📂 Project Structure
 - **Dataset**: `ncr_ride_bookings.csv` – Synthetic dataset (150k rows for NCR bookings)  
 - **SQL Scripts**: `queries.sql` – Cleaning, transformation, KPI calculations  
-- **Google Sheets**: `sheets/` – Pivot tables and ad-hoc summaries  
+- **Excel**: `sheets/` – Pivot tables and ad-hoc summaries  
 - **Power BI Dashboard**: `Uber.pbix` – Interactive dashboard for business insights  
 - **README.md** – Documentation (this file)  
 - **DATASET_PROMPT.txt** – Dataset generation prompt (included for transparency)
